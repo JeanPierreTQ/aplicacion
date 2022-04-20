@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+	background: #dedede;
+}
+.contenedor {
+width:320px;
+height:600px;
+border: 1px solid black;
+margin: 0 auto;
+background: white;
+position: relative;
+}
+.trabajo {
+	font-family: 'Poppins', sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3799999952316284px;
+text-align: center;
+}
+.reunion {
+	font-family: 'Poppins', sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3799999952316284px;
+text-align: left;
+}
+.octubre {
+font-family: 'Poppins', sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3799999952316284px;
+text-align: left;
+}
+.hora {
+	font-family: 'Poppins', sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.3799999952316284px;
+text-align: left;
+}
+.agregar {
+	position: absolute;
+width: 280px;
+height: 172px;
+left: 17px;
+top: 89px;
+
+background: #FCFCFC;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+}
+.linea {
+	position: relative;
+width: 244px;
+height: 0px;
+left: -2px;
+top: -70px;
+
+border: 1px solid #A3A7BA;
+
+}
+.mover {
+	position: absolute;
+	top: 0px;
+	left: -100px;
+}
